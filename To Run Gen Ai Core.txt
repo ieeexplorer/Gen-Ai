@@ -1,0 +1,4 @@
+""" to run my recent Gen Ai code"""
+
+pip install torch numpy
+python genai_core.py
